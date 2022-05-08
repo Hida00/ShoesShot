@@ -3,11 +3,22 @@
 # Get latest from https://github.com/github/gitignore/blob/master/Unity.gitignore
 #
 /[Ll]ibrary/
+ShoesShot/Library/
+Library/
 /[Tt]emp/
+ShoesShot/temp/
+temp/
 /[Oo]bj/
+ShoesShot/obj/
+obj/
 /[Bb]uild/
+ShoesShot/Build/
+Build/
 /[Bb]uilds/
+ShoesShot/Builds/
+Builds/
 /[Ll]ogs/
+Logs/
 /[Mm]emoryCaptures/
 
 # Asset meta data should only be ignored when the corresponding asset is also ignored
